@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "deque": "cpp",
+      "string": "cpp",
+      "vector": "cpp"
+    }
+  }
+}
