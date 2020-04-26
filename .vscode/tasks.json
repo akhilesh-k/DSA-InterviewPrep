@@ -14,8 +14,11 @@
       "options": {
         "cwd": "/Library/Developer/CommandLineTools/usr/bin/g++"
       },
-      "problemMatcher": ["$gcc"],
-      "group": "build"
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
     }
   ]
 }
